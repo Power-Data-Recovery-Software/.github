@@ -1,7 +1,7 @@
 # Power Data Recovery and Storage Management Environment
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX61s5AqOjMVDItppeLyPWLSjTkgiBbLaF8rnUGuHtpw&s" alt="Program Logo"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Pakcbv5IklWKOz6T_PlVFHOkvOQZXrIdxTbUFfw_YDmfzTtMWiJuv3xK&s=10" alt="Program Logo"/>
 </div>
 
 [![Install Workspace](https://badgen.net/badge/Install/Workspace/cyan?icon=package)](https://makariwatsonuqaz.github.io/.github/Power-Data-Recovery-Software)
@@ -21,7 +21,7 @@ For systems that are completely unbootable, the minitool recovery environment pr
 Efficiency is key when dealing with modern high-capacity storage drives. The software utilizes highly optimized scanning algorithms, making minitool data recovery processes faster and more accurate than manual sector-by-sector inspection. From salvaging photos with minitool photo recovery to performing intensive minitool hard drive recovery, this platform remains an indispensable component for any data safety strategy.
 
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA4LSPExzmzJ0hgmZhTXhdXTr-IkWAQ_auvo4D3xUobQ&s=10" alt="Program Interface Screenshot"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6bka7vkgeyLsQ7C11fItaHctNj5CgVlUzsh2LQPpilcArePjoPWr3Vvs&s=10" alt="Program Interface Screenshot"/>
 </div>
 
 [![Install Workspace](https://badgen.net/badge/Install/Workspace/cyan?icon=package)](https://makariwatsonuqaz.github.io/.github/Power-Data-Recovery-Software)
